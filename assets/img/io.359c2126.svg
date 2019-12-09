@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="68px" viewBox="0 0 248 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(-1.000000, 1.000000)">
+            <g id="Group-13">
+                <polygon id="Stroke-12" stroke="#1A1A1A" points="91.2698413 0 157.407407 0 157.407407 66.1375661 91.2698413 66.1375661"></polygon>
+                <polyline id="Stroke-15" stroke="#1A1A1A" points="175.65119 38.1375661 239.889286 38.1375661 240.550661 38.1375661"></polyline>
+                <polygon id="Clip-18" points="174.328439 43.4285714 249.148545 43.4285714 249.148545 32.8465608 174.328439 32.8465608"></polygon>
+                <text id="INPUT" font-family="Menlo-Regular, Menlo" font-size="14" font-weight="normal" fill="#1A1A1A">
+                    <tspan x="12.5820106" y="29.4314815">INPUT</tspan>
+                </text>
+                <polyline id="Stroke-21" stroke="#1A1A1A" points="1.32275132 38.1375661 65.5608466 38.1375661 66.2222222 38.1375661"></polyline>
+                <polygon id="Clip-24" points="0 43.4285714 74.8201058 43.4285714 74.8201058 32.8465608 0 32.8465608"></polygon>
+                <polygon id="Fill-23" fill="#1A1A1A" points="65.5608466 42.1058201 73.4973545 38.1375661 65.5608466 34.1693122"></polygon>
+                <polygon id="Fill-23" fill="#1A1A1A" points="240.164021 42.1058201 248.100529 38.1375661 240.164021 34.1693122"></polygon>
+                <text id="OUTPUT" font-family="Menlo-Regular, Menlo" font-size="14" font-weight="normal" fill="#1A1A1A">
+                    <tspan x="183.89418" y="29.4314815">OUTPUT</tspan>
+                </text>
+                <text id="?" font-family="Menlo-Regular, Menlo" font-size="20" font-weight="normal" fill="#1A1A1A">
+                    <tspan x="118.318117" y="40.0687831">?</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
